@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A44A114D-A144-668C-5C5C-EA217BD24F18}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BoidMovement.cs">
+    <Files>
+      <File FileName="Assets/BoidMovement.cs" Line="40" Column="61" />
+      <File FileName="Assets/FlockManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="56a38bd0-029b-4a42-9dfd-cc9278357a3d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
