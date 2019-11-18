@@ -141,17 +141,20 @@ public class BoidMovement : MonoBehaviour
         Gizmos.DrawWireCube(b.center, new Vector3(perception, perception, perception));
     }
 
-
+    /*
+     * 
     //---------------------------------------------------------------------
     float maxMag;
     float minMag;
     float mag;
+    float perception;
     Vector3 pos;
     Vector3 velocity;
     Vector3 accelaration;
     Vector3 dir;
     Transform t;
     Rigidbody rigid;
+    
 
 
     private void Upp()
@@ -176,4 +179,7 @@ public class BoidMovement : MonoBehaviour
         pos = t.position;
 
     }
+
+    */
+
 }

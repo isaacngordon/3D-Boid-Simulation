@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{A44A114D-A144-668C-5C5C-EA217BD24F18}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BoidMovement.cs">
     <Files>
-      <File FileName="Assets/BoidMovement.cs" Line="40" Column="61" />
-      <File FileName="Assets/FlockManager.cs" />
+      <File FileName="Assets/BoidMovement.cs" Line="183" Column="7" />
+      <File FileName="Assets/FlockManager.cs" Line="49" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
